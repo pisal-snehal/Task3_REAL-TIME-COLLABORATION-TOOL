@@ -83,7 +83,10 @@ Tested by opening multiple tabs or browsers:
 
 ## 📷 Output Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/7344bfbf-7e9a-4441-80e4-c153e068a0bc)
+![Image](https://github.com/user-attachments/assets/adc01351-cace-4dc4-87d3-07b2ef86b415)
+![Image](https://github.com/user-attachments/assets/84e3d3f8-89d6-4e68-b92e-e12589475f4d)
+![Image](https://github.com/user-attachments/assets/352424d9-c96e-4acf-a8de-a4f726ddad7d)
 
 ---
 
